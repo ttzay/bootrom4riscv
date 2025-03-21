@@ -1,4 +1,4 @@
-./.cache
+.cache/
 ./bootrom.elf
 ./bootrom.bin
 compile_commands.json
